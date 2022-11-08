@@ -1,0 +1,1 @@
+# no config script at the moment, all scripts are found in the file located in /notebooks directory
